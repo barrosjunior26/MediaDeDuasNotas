@@ -1,0 +1,15 @@
+C:\Users\barro\workspace\mediaDuasNotas\mediaDuasNotas\mediaDuasNotas\bin\Debug\net6.0\mediaDuasNotas.exe
+C:\Users\barro\workspace\mediaDuasNotas\mediaDuasNotas\mediaDuasNotas\bin\Debug\net6.0\mediaDuasNotas.deps.json
+C:\Users\barro\workspace\mediaDuasNotas\mediaDuasNotas\mediaDuasNotas\bin\Debug\net6.0\mediaDuasNotas.runtimeconfig.json
+C:\Users\barro\workspace\mediaDuasNotas\mediaDuasNotas\mediaDuasNotas\bin\Debug\net6.0\mediaDuasNotas.dll
+C:\Users\barro\workspace\mediaDuasNotas\mediaDuasNotas\mediaDuasNotas\bin\Debug\net6.0\mediaDuasNotas.pdb
+C:\Users\barro\workspace\mediaDuasNotas\mediaDuasNotas\mediaDuasNotas\obj\Debug\net6.0\mediaDuasNotas.csproj.AssemblyReference.cache
+C:\Users\barro\workspace\mediaDuasNotas\mediaDuasNotas\mediaDuasNotas\obj\Debug\net6.0\mediaDuasNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barro\workspace\mediaDuasNotas\mediaDuasNotas\mediaDuasNotas\obj\Debug\net6.0\mediaDuasNotas.AssemblyInfoInputs.cache
+C:\Users\barro\workspace\mediaDuasNotas\mediaDuasNotas\mediaDuasNotas\obj\Debug\net6.0\mediaDuasNotas.AssemblyInfo.cs
+C:\Users\barro\workspace\mediaDuasNotas\mediaDuasNotas\mediaDuasNotas\obj\Debug\net6.0\mediaDuasNotas.csproj.CoreCompileInputs.cache
+C:\Users\barro\workspace\mediaDuasNotas\mediaDuasNotas\mediaDuasNotas\obj\Debug\net6.0\mediaDuasNotas.dll
+C:\Users\barro\workspace\mediaDuasNotas\mediaDuasNotas\mediaDuasNotas\obj\Debug\net6.0\refint\mediaDuasNotas.dll
+C:\Users\barro\workspace\mediaDuasNotas\mediaDuasNotas\mediaDuasNotas\obj\Debug\net6.0\mediaDuasNotas.pdb
+C:\Users\barro\workspace\mediaDuasNotas\mediaDuasNotas\mediaDuasNotas\obj\Debug\net6.0\mediaDuasNotas.genruntimeconfig.cache
+C:\Users\barro\workspace\mediaDuasNotas\mediaDuasNotas\mediaDuasNotas\obj\Debug\net6.0\ref\mediaDuasNotas.dll
